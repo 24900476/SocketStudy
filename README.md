@@ -89,7 +89,7 @@ s.send("acknowledgement recived from the server".encode())
 
 ## Output:
 
-<img width="1920" height="1080" alt="cn1a" src="https://github.com/user-attachments/assets/ca9f37ca-8bee-4370-9a01-a94baf844e6d" />
+![cn](./image.png)
 
 
 ## Result:
